@@ -6,15 +6,27 @@ This python project "Grocery Store Management System" is a 3 tier application wh
 
 Screenshots:
 
+Homepage:
+
 ![Screenshot (446)](https://user-images.githubusercontent.com/43982451/216354553-c8ead35a-706e-4bde-aac1-9ac63227d646.png)
+
+Manage products page:
 
 ![Screenshot (447)](https://user-images.githubusercontent.com/43982451/216355239-0eaad5b8-41ed-4ee3-b23d-e08ba0a40a4a.png)
 
+Adding new product "cheese":
+
 ![Screenshot (449)](https://user-images.githubusercontent.com/43982451/216355334-5990038b-d981-4c22-913d-45e832b8c49a.png)
+
+"cheese" is successfully added:
 
 ![Screenshot (450)](https://user-images.githubusercontent.com/43982451/216355435-d44ac5e2-1ee4-4032-9800-5950bf3a1b5a.png)
 
+New order page:
+
 ![Screenshot (452)](https://user-images.githubusercontent.com/43982451/216355928-d96b69f9-52e8-45d2-a437-62fb961b6d1a.png)
+
+New order added successfully at homepage (Ranbir):
 
 ![Screenshot (453)](https://user-images.githubusercontent.com/43982451/216356036-d7a4ae43-e62b-4345-9e06-2e085ef9fc6a.png)
 
